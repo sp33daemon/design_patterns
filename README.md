@@ -1,2 +1,2 @@
-# Python Design pattern
+#  Design pattern
 
